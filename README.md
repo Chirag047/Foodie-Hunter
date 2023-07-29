@@ -1,6 +1,6 @@
 # Foodie Hunter
 Foodie Hunter is a functional frontend of a food Website which has unique navbar and UI design. It is a concept of a food restaurant website. It also has cart and payment page in which all the list of items with there amount is shown along with the total amount. Go order something virtually ;)
-<br>
+<br><br>
 It is responsive on any screen devices so you can play it any device you wish :)
 <hr>
 
