@@ -17,7 +17,7 @@ https://foodie-hunter.vercel.app/
 
  <hr>
 
-## Demo 
+## Screenshots
 
 Some screenshots from the project
 
